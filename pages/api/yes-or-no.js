@@ -1,4 +1,4 @@
-import enablePublicAccess from '@cors'
+import enablePublicAccess from '../../cors-middleware'
 
 const allAvos = async (req, res) => {
   // Generally, you would not want this in your apps.
