@@ -1,5 +1,4 @@
 import corsWrapper from 'cors'
-import { RequestHandler } from 'express'
 
 /**
  * Hey there you curious :)
